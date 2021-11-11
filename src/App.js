@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import "./App.css";
 import Profile from "./Profile/Profile.js";
-import Image from "./Image.jpeg";
+import Image from "./Image.jpg";
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <Profile
-        fullName="Oussama Najjar"
+        fullName="taieb trabelsi"
         bio="Learn more and do more"
         profession="Web development"
         showAlert={showAlert}
